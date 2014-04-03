@@ -1,1 +1,4 @@
 tests/*.md
+
+# editor tempfiles
+.*.sw*
