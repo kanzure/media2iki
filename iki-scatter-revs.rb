@@ -16,7 +16,7 @@
 
 
 require 'rubygems'
-require 'node-callback'
+require './node-callback'
 require 'time'
 
 require 'fileutils' # for mkdir_p
